@@ -1,0 +1,38 @@
+.content {
+    float: right;
+    text-align: center;
+}
+
+.hero-text {
+    font-size: 56px;
+    color: #361C42;
+    font-family: 'Playfair Display', serif !important;
+    font-size: 80px;
+    font-weight: 500;
+    color: #361C42;
+    text-align: center;
+}
+
+.mrt {
+    margin-bottom: 92px;
+}
+
+.be-ready {
+    font-family: 'Playfair Display', serif !important;
+    font-size: 30px;
+    font-weight: 500;
+    color: #361C42;
+}
+
+.notify {
+    color: #303030;
+    border-width: 2px;
+    border-color: rgba(0, 0, 0, 0.45);
+    font-size: 18px;
+    width: 200px;
+    padding: 15px;
+}
+
+.icon {
+    width: 24px;
+}
